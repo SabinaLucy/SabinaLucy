@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I’m Sabina 👋
 
-<!--
-**SabinaLucy/SabinaLucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.S. Data Science Student @ Michigan Technological University  
+### BSc in IT • Minor in Software Engineering
 
-Here are some ideas to get you started:
+I build AI systems that move beyond notebooks into real deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans machine learning, deep learning, generative AI, time series forecasting, backend APIs, and intelligent systems engineering.
+
+## Currently Building
+
+🧠 AI systems  
+📈 Financial intelligence platforms  
+⚡ Production-ready ML pipelines  
+🚀 FastAPI deployments  
+🤖 Deep learning architectures  
+
+## Tech Stack
+
+### Languages
+Python • Java • C# • C++ • PHP • R • SQL • JavaScript
+
+### AI & Machine Learning
+PyTorch • TensorFlow • Scikit learn • XGBoost • Hugging Face • Deep Learning • Time Series Modeling
+
+### Backend & Deployment
+FastAPI • Docker • REST APIs • Git
+
+### Frontend
+React • HTML • CSS • JavaScript
+
+### Tools & Environment
+JupyterLab • VS Code • Google Colab • Conda
+
+## Background
+
+Former freelance full-stack developer turned AI builder.
+
+I enjoy clean architectures, scalable systems, GPU training sessions, good music, and heavy gym days.
+
+Most repositories here are:
+- Production-oriented personal systems
+- Research-driven academic work
+- Experimental AI deployments
+
+> I build systems. Not just models.
