@@ -1,7 +1,7 @@
 # Hi, I’m Sabina 👋
 
 ### M.S. Data Science Student @ Michigan Technological University  
-### BSc in IT • Minor in Software Engineering
+### BSc in IT, Software Engineering
 
 I build AI systems that move beyond notebooks into real deployment.
 
